@@ -4,17 +4,15 @@ Here you'll find lot's of code lines and cool things, enjoy!
 
 ## About Me
 👨‍🦱		People call me *Beneti*
-
 💻	Computer Science Grad Student at USP - ICMC
 
 
 
 
 :fire:Follow me on my Social Media:fire:
-<ul>
-  <li><a href="https://twitter.com/benetteta">Twitter</a></li>
-	<li><a href="https://www.instagram.com/vbenecti/">Instagram</a></li>
-</ul>
+
+![GitHub followers](https://img.shields.io/github/followers/benetche?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/benetteta?style=social)
 
 ## To-do list
 [ ] Create a cool README
