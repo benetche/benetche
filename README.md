@@ -3,8 +3,9 @@ Hey! What's up?
 Here you'll find lot's of code lines and cool things, enjoy!
 
 ## About Me
-👨‍🦱		People call me *Beneti*
-💻	Computer Science Grad Student at USP - ICMC
+👨‍🦱		People call me *Beneti*\
+💻	Computer Science Grad Student at USP - ICMC\
+:office: Currently working as Web Development Intern @ BLOCK C\
 
 
 
