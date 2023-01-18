@@ -20,7 +20,6 @@
 ---
 ## &#x1f4c8; My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benetche)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Benetche's GitHub stats](https://github-readme-stats.vercel.app/api?username=benetche)](https://github.com/anuraghazra/github-readme-stats)
 
 
