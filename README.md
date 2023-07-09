@@ -7,7 +7,7 @@
 
 
 
-:fire:Follow me on my Social Media:fire:
+
 
 ![GitHub followers](https://img.shields.io/github/followers/benetche?style=social)
 
