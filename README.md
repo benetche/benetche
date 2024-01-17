@@ -2,7 +2,7 @@
 
 ## :man_beard: About Me
 💻 Computer Science Grad Student at USP - ICMC\
-🔭 I'm currently working as Web Development Intern @ BLOCK C
+🔭 I'm currently looking for a position as Intern.
 
 
 
